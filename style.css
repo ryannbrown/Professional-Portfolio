@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css?family=Thasadith:400,700');
+
+html {
+	
+}
+
+nav{
+	font-family:sans-serif;
+	color:black;
+	overflow: hidden;
+	background-color: white;
+	position:fixed;
+	top:0;
+	width:100%;
+}
+
+nav a {
+	color:black;
+	font-size:24px;
+}
+
+body  {
+font-family:'Thasadith', sans-serif;
+color: black;
+background-image:url("https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+background-attachment:fixed;
+background-size:cover;
+width:100%;
+height:100%;
+position:absolute;
+margin-top:20px;
+}
+
+
+.background-img {
+background-image:url("https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+background-attachment:fixed;
+background-size:cover;
+width:100%;
+height:100%;
+position:absolute;
+opacity:.2;
+}
+
+
+.intro {
+margin:50px;
+padding:75px;
+align-content: center;
+min-width:300px;
+max-width:600px;
+min-height:200px;
+
+background-color:;
+align-self:center;
+margin-right:auto;
+margin-left:auto;
+text-align:center;
+font-weight:bold;
+background-color:white;
+}
+
+.headline {
+font-weight:bold;
+margin:10px;
+}
+.headline,h5 {
+font-size:24px;
+}
+
+
+.avatar {
+width:250px;
+border-radius: 50%;
+}
+
+img hover {
+ opacity: 1.0;
+ filter: alpha(opacity=100);
+}
+
+h2 h5 {
+	text-align:center ;
+}
+
+img{
+	width:100%;
+}
+
+.container-about {
+	background-color:white;
+	padding:20px;
+	opacity:.99;
+	text-align:center;
+	font-size:32px;
+	padding:;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid grey;
+}
+
+button:hover {
+  background-color: grey; 
+  color: white;
+}
+
+/* Skill Grid */
+
+.grid-container {
+
+	padding:10px;
+	justify-content:center;
+	background-color:white;
+	margin:35px;
+
+
+	
+}
+
+.skills {
+	padding-top:50px;
+	grid-column-start:1;
+	grid-column-end:5;
+	text-align: center;
+	font-weight:bold;
+
+}
+
+.skill-text{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.contact {
+	background-color:white;
+	text-align:center;
+	font-weight:bold;
+}
