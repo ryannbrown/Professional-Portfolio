@@ -17,6 +17,14 @@ nav a {
 	font-size:24px;
 }
 
+.contact-form{
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
 body  {
 font-family:'Thasadith', sans-serif;
 color: black;
@@ -42,7 +50,8 @@ opacity:.2;
 
 
 .intro {
-margin:50px;
+margin:20px;
+margin-bottom:50px;
 padding:75px;
 align-content: center;
 min-width:300px;
@@ -143,9 +152,13 @@ button:hover {
 
 
 .contact {
+	width:75%;
+	margin-left:auto;
+	margin-right:auto;
 	background-color:white;
 	text-align:center;
 	font-weight:bold;
+	margin-bottom:-20px;
 } 
 
 .css-img{
@@ -176,5 +189,25 @@ img.bootstrap-img {
 }
 
 .skill-text-2{
+	padding-bottom:50px;
+}
+.button{
+	color:white;
+	background-color:rgb(56, 100, 80)
+}
+h5{
+	line-height:1.5;
+}
+
+h1.fab.fa-linkedin {
+	color: rgb(56, 100, 80);
+	width:10%;
+}
+.fab.fa-github{
+	color: rgb(56, 100, 80);
+	width:10%;
+}
+
+.contact{
 	padding-bottom:50px;
 }
