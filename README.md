@@ -5,7 +5,7 @@
 #### This repo is for my portfolio page:  
 
 ### Link
-https://ryannbrown.github.io/Professional-Portfolio/
+https://ryannbrown.github.io/Portfolio/
 
 #### I am a full stack developer who enjoys working on APIs and UX. 
 
