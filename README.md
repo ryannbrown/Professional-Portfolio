@@ -18,9 +18,9 @@ https://ryannbrown.github.io/portfolio/
 
 ### Projects I am working on: 
 
-#### Currently I work full time as a website coordinator for Sokal. I build and maintain components on our 150+ websites. Most of our websites are car dealerships. 
-
-#### I am also building an eccommerce site built on React. I am super excited about this project and more updates are coming soon. 
+#### Recently I worked full time as a website coordinator for Sokal. I built and maintained components on our 150+ websites. Most of their websites are car dealerships. 
+#### I then worked a short stint with a start up in the Credit Union space, developing a platform containing single page apps that Credit Unions could customize for their purposes. I mainy debugged Javascript code and developed our documentation while I was there.
+#### I now heading up development on a family member's ecommerce website. The site is built on NodeJS, Express, React, and PostgreSQL (containing the inventory).
 
 
 
