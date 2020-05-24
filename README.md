@@ -13,7 +13,7 @@ https://ryannbrown.github.io/portfolio/
 
 ### My skills
 
-#### Vue, React, Node, Boostrap, Mongo, MySQL, Express, Jquery, HTML, CSS, JSON, AJAX, Gatsby, MongoDB, and Graphql.
+#### Vue, React, Javascript, Node, Boostrap, Mongo, MySQL, Express, Jquery, HTML, CSS, JSON, AJAX, Gatsby, MongoDB, and PostgreSQL.
 
 
 ### Projects I am working on: 
